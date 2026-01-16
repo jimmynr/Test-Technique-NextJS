@@ -1,4 +1,4 @@
-import loupe from "../../public/images/loupe-webdifference.png"
+import loupe from "../../../public/images/loupe-webdifference.png"
 import Image from "next/image"
 
 const HeroBadge = () => {

@@ -1,6 +1,7 @@
 import HeroBadge from "./HeroBadge"
 import HeroTitle from "./HeroTitle"
 import HeroDescription from "./HeroDescription"
+import HeroActions from "./HeroActions"
 
 const HeroSection = () => {
   return (
@@ -9,7 +10,7 @@ const HeroSection = () => {
         <HeroBadge />
         <HeroTitle />
         <HeroDescription />
-        {/* <HeroActions /> */}
+        <HeroActions />
       </div>
     </section>
   )
